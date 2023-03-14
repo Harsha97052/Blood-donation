@@ -1,0 +1,42 @@
+.navbar-logo {
+    width: 28%;
+}
+.nav-bg {
+    background-image : linear-gradient(#ffffff,#FFD7D2);
+}
+#nav-item1 {
+    font-size: 18px;
+    font-family: 'Bree Serif', serif;
+}
+#nav-item2 {
+    font-size: 18px;
+    font-family: 'Bree Serif', serif;
+}
+#nav-item3 {
+    font-size: 18px;
+    font-family: 'Bree Serif', serif;
+}
+#nav-item4 {
+    font-size: 18px;
+    font-family: 'Bree Serif', serif;
+}
+#nav-item5 {
+    font-size: 18px;
+    font-family: 'Bree Serif', serif;
+}
+.bg-section {
+    background-image : radial-gradient(#ffffff,#FFD7D2);
+    height: 100vh;
+}
+.home-page-head {
+    color: #393838;
+    font-size: 42px;
+    font-weight: bold;
+}
+.home-page-description {
+    color: #141010;
+    font-size: 22px;
+}
+.home-page-btn {
+    font-size: 20px;
+}
